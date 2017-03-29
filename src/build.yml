@@ -1,0 +1,10 @@
+external:
+local:
+  - dependencies
+  - utils
+  - camera
+  - ground
+  - block
+  - player
+  - user-input
+  - game
